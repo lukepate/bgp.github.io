@@ -10,18 +10,18 @@
     <language>en-us</language>
     
     
-    <copyright>© 2011 bbyGundam</copyright>
+    <copyright>© 2020 bbyGundam &amp; Family</copyright>
     
     
-    <itunes:subtitle>Two buds dive deep on MG Jegan</itunes:subtitle>
+    <itunes:subtitle>A show about everything Gundam Related</itunes:subtitle>
     
     
     <itunes:author>bbyGundam</itunes:author>
     
     
     <itunes:owner>
-      <itunes:name>bbyGundam</itunes:name>
-      <itunes:email>bbygundam@gmail.com</itunes:email>
+      <itunes:name>Wyatt rajer</itunes:name>
+      <itunes:email>lukewpate@gmail.com</itunes:email>
     </itunes:owner>
     
     
@@ -33,7 +33,7 @@
     
   
     
-    <itunes:category text="Animation &amp; Manga"/>
+    <itunes:category text="Animation and Manga"/>
     
   
   
@@ -41,8 +41,21 @@
   
 	<generator>Dropcaster 1.1.0</generator>
 	
-    <itunes:keywords>gundam,gunpla,plamo,model kit</itunes:keywords>
+    <itunes:keywords>gundam, gunpla, plamo, model kit</itunes:keywords>
   
   
+    <item>
+      <title>BGP-2.mp3</title>
+      <itunes:author>Wyatt</itunes:author>
+    
+      <itunes:image href="https://www.dropbox.com/s/l43ms6le2tdnk2t/cover.jpg?dl=0"/>
+      <enclosure url="https://lukepate.github.io/bgp.github.io/index.rss" length="10625507" type="audio/mp3"/>
+      <link>https://www.dropbox.com/s/3qeq1eotu0h6l7x/BGP-2.mp3?dl=0</link>
+      <guid isPermaLink="false">d7cecb9265b5fe368fd5ca44bbd9ab40e1824713</guid>
+      <pubDate>Thu, 23 Jul 2020 22:33:26 -0400</pubDate>
+      <itunes:duration>2656</itunes:duration>
+    
+    </item>
+
   </channel>
 </rss>
