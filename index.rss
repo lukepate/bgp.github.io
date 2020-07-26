@@ -26,6 +26,7 @@
     
     
     <itunes:image href="https://bgp-1.s3.amazonaws.com/cover.jpg"/>
+    
   
     
     <itunes:category text="Hobbies"/>
@@ -42,6 +43,19 @@
 	
     <itunes:keywords>gundam,gunpla,plamo,model kit</itunes:keywords>
   
+  
+    <item>
+      <title>BGP_1.mp3</title>
+      <itunes:author>Baby Gundam </itunes:author>
+    
+      <itunes:image href="https://bgp-1.s3.amazonaws.com/cover.jpg"/>
+      <enclosure url="https://bgp-1.s3.amazonaws.com/BGP_1.mp3" length="106512174" type="audio/mp3"/>
+      <link>https://bgp-1.s3.amazonaws.com/BGP_1.mp3</link>
+      <guid isPermaLink="false">ed4f2eb0e244a957dda75094ff7a72201dfc24b4</guid>
+      <pubDate>Sun, 26 Jul 2020 13:42:30 -0400</pubDate>
+      <itunes:duration>2656</itunes:duration>
+    
+    </item>
   
   </channel>
 </rss>
