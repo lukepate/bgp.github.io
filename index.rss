@@ -27,14 +27,9 @@
     
     <itunes:image href="https://bgp-1.s3.amazonaws.com/cover.jpg"/>
     
-  
-    
-    <itunes:category text="Hobbies"/>
-    
-  
-    
-    <itunes:category text="Animation &amp; Manga"/>
-    
+    <itunes:category>Hobbies<itunes:category>
+    <itunes:category>Animation<itunes:category>
+      
   
   
     <itunes:explicit>No</itunes:explicit>
